@@ -1,6 +1,6 @@
 ### Criando uma Calculadora em React :calling:
 
-* Pratica para afixar tudo que estudei em React.
+* Pratica para fixação dos estudos em React.
 
 * Crianção simples de calculadora.
 
