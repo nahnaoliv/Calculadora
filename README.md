@@ -4,7 +4,7 @@
 
 * Crianção simples de calculadora.
 
-* Fiz uso de framework React (praticas mais aprofundada em javascript).
+* Fiz uso de React (praticas mais aprofundada em javascript).
 
   ​
 
